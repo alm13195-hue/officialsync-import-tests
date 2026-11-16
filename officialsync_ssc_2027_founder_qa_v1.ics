@@ -1,228 +1,269 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//OfficialSync//SSC 2027 Founder QA//EN
 CALSCALE:GREGORIAN
+PRODID:-//OfficialSync//SSC 2027 Founder QA RefQuest Style//EN
 METHOD:PUBLISH
-X-WR-CALNAME:OfficialSync SSC 2027 Founder QA
+X-WR-CALNAME:OfficialSync SSC 2027 Synthetic Founder QA V2
 X-WR-TIMEZONE:America/New_York
+X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:SSC2027-QA-001@officialsync-test.invalid
 DTSTAMP:20261115T120000Z
 DTSTART:20270116T170000Z
-DTEND:20270116T200000Z
-SUMMARY:Saint Leo vs Hillsborough
+DURATION:PT3H
+SUMMARY:Game for Florida Collegiate Umpires - Sunshine State Conference
+DESCRIPTION:Hillsborough at Saint Leo (12:00PM EST)
 LOCATION:Pete Biscardi Field at Thomas B. Southard Stadium\, Saint Leo\, FL
-DESCRIPTION:SYNTHETIC UMPIRE ASSIGNMENT - NOT AN ACTUAL ASSIGNMENT. Published school matchup and start time\; three-hour end time and $185 fee are QA assumptions. Test group: Sunshine State Conference QA.
 STATUS:CONFIRMED
 SEQUENCE:0
+X-OFFICIALSYNC-QA:TRUE
+X-OFFICIALSYNC-QA-NOTE:SYNTHETIC TEST ONLY - NOT AN ACTUAL ASSIGNMENT
 END:VEVENT
 BEGIN:VEVENT
 UID:SSC2027-QA-002@officialsync-test.invalid
 DTSTAMP:20261115T120000Z
 DTSTART:20270129T230000Z
-DTEND:20270130T020000Z
-SUMMARY:Saint Leo vs Lenoir-Rhyne
+DURATION:PT3H
+SUMMARY:Game for Florida Collegiate Umpires - Sunshine State Conference
+DESCRIPTION:Lenoir-Rhyne at Saint Leo (6:00PM EST)
 LOCATION:Pete Biscardi Field at Thomas B. Southard Stadium\, Saint Leo\, FL
-DESCRIPTION:SYNTHETIC UMPIRE ASSIGNMENT - NOT AN ACTUAL ASSIGNMENT. Published school matchup and start time\; three-hour end time and $185 fee are QA assumptions. Test group: Sunshine State Conference QA.
 STATUS:CONFIRMED
 SEQUENCE:0
+X-OFFICIALSYNC-QA:TRUE
+X-OFFICIALSYNC-QA-NOTE:SYNTHETIC TEST ONLY - NOT AN ACTUAL ASSIGNMENT
 END:VEVENT
 BEGIN:VEVENT
 UID:SSC2027-QA-003@officialsync-test.invalid
 DTSTAMP:20261115T120000Z
 DTSTART:20270129T230000Z
-DTEND:20270130T020000Z
-SUMMARY:Florida Southern vs UAH
+DURATION:PT3H
+SUMMARY:Game for Florida Collegiate Umpires - Sunshine State Conference
+DESCRIPTION:UAH at Florida Southern (6:00PM EST)
 LOCATION:Henley Field\, Lakeland\, FL
-DESCRIPTION:SYNTHETIC UMPIRE ASSIGNMENT - NOT AN ACTUAL ASSIGNMENT. Published school matchup and start time\; three-hour end time and $175 fee are QA assumptions. Test group: Sunshine State Conference QA.
 STATUS:CONFIRMED
 SEQUENCE:0
+X-OFFICIALSYNC-QA:TRUE
+X-OFFICIALSYNC-QA-NOTE:SYNTHETIC TEST ONLY - NOT AN ACTUAL ASSIGNMENT
 END:VEVENT
 BEGIN:VEVENT
 UID:SSC2027-QA-004@officialsync-test.invalid
 DTSTAMP:20261115T120000Z
 DTSTART:20270130T180000Z
-DTEND:20270130T210000Z
-SUMMARY:Florida Southern vs UAH - Game 1
+DURATION:PT3H
+SUMMARY:Game for Florida Collegiate Umpires - Sunshine State Conference
+DESCRIPTION:UAH - Game 1 at Florida Southern (1:00PM EST)
 LOCATION:Henley Field\, Lakeland\, FL
-DESCRIPTION:SYNTHETIC UMPIRE ASSIGNMENT - NOT AN ACTUAL ASSIGNMENT. Published school matchup and start time\; three-hour end time and $175 fee are QA assumptions. Test group: Sunshine State Conference QA.
 STATUS:CONFIRMED
 SEQUENCE:0
+X-OFFICIALSYNC-QA:TRUE
+X-OFFICIALSYNC-QA-NOTE:SYNTHETIC TEST ONLY - NOT AN ACTUAL ASSIGNMENT
 END:VEVENT
 BEGIN:VEVENT
 UID:SSC2027-QA-005@officialsync-test.invalid
 DTSTAMP:20261115T120000Z
 DTSTART:20270130T210000Z
-DTEND:20270131T000000Z
-SUMMARY:Florida Southern vs UAH - Game 2
+DURATION:PT3H
+SUMMARY:Game for Florida Collegiate Umpires - Sunshine State Conference
+DESCRIPTION:UAH - Game 2 at Florida Southern (4:00PM EST)
 LOCATION:Henley Field\, Lakeland\, FL
-DESCRIPTION:SYNTHETIC UMPIRE ASSIGNMENT - NOT AN ACTUAL ASSIGNMENT. Published school matchup and start time\; three-hour end time and $175 fee are QA assumptions. Test group: Sunshine State Conference QA.
 STATUS:CONFIRMED
 SEQUENCE:0
+X-OFFICIALSYNC-QA:TRUE
+X-OFFICIALSYNC-QA-NOTE:SYNTHETIC TEST ONLY - NOT AN ACTUAL ASSIGNMENT
 END:VEVENT
 BEGIN:VEVENT
 UID:SSC2027-QA-006@officialsync-test.invalid
 DTSTAMP:20261115T120000Z
 DTSTART:20270130T200000Z
-DTEND:20270130T230000Z
-SUMMARY:Saint Leo vs Lenoir-Rhyne
+DURATION:PT3H
+SUMMARY:Game for Florida Collegiate Umpires - Sunshine State Conference
+DESCRIPTION:Lenoir-Rhyne at Saint Leo (3:00PM EST)
 LOCATION:Pete Biscardi Field at Thomas B. Southard Stadium\, Saint Leo\, FL
-DESCRIPTION:SYNTHETIC UMPIRE ASSIGNMENT - NOT AN ACTUAL ASSIGNMENT. Published school matchup and start time\; three-hour end time and $185 fee are QA assumptions. Test group: Sunshine State Conference QA.
 STATUS:CONFIRMED
 SEQUENCE:0
+X-OFFICIALSYNC-QA:TRUE
+X-OFFICIALSYNC-QA-NOTE:SYNTHETIC TEST ONLY - NOT AN ACTUAL ASSIGNMENT
 END:VEVENT
 BEGIN:VEVENT
 UID:SSC2027-QA-007@officialsync-test.invalid
 DTSTAMP:20261115T120000Z
 DTSTART:20270131T170000Z
-DTEND:20270131T200000Z
-SUMMARY:Saint Leo vs Lenoir-Rhyne
+DURATION:PT3H
+SUMMARY:Game for Florida Collegiate Umpires - Sunshine State Conference
+DESCRIPTION:Lenoir-Rhyne at Saint Leo (12:00PM EST)
 LOCATION:Pete Biscardi Field at Thomas B. Southard Stadium\, Saint Leo\, FL
-DESCRIPTION:SYNTHETIC UMPIRE ASSIGNMENT - NOT AN ACTUAL ASSIGNMENT. Published school matchup and start time\; three-hour end time and $185 fee are QA assumptions. Test group: Sunshine State Conference QA.
 STATUS:CONFIRMED
 SEQUENCE:0
+X-OFFICIALSYNC-QA:TRUE
+X-OFFICIALSYNC-QA-NOTE:SYNTHETIC TEST ONLY - NOT AN ACTUAL ASSIGNMENT
 END:VEVENT
 BEGIN:VEVENT
 UID:SSC2027-QA-008@officialsync-test.invalid
 DTSTAMP:20261115T120000Z
 DTSTART:20270204T223000Z
-DTEND:20270205T013000Z
-SUMMARY:Florida Southern vs Erskine
+DURATION:PT3H
+SUMMARY:Game for Florida Collegiate Umpires - Sunshine State Conference
+DESCRIPTION:Erskine at Florida Southern (5:30PM EST)
 LOCATION:Henley Field\, Lakeland\, FL
-DESCRIPTION:SYNTHETIC UMPIRE ASSIGNMENT - NOT AN ACTUAL ASSIGNMENT. Published school matchup and start time\; three-hour end time and $175 fee are QA assumptions. Test group: Sunshine State Conference QA.
 STATUS:CONFIRMED
 SEQUENCE:0
+X-OFFICIALSYNC-QA:TRUE
+X-OFFICIALSYNC-QA-NOTE:SYNTHETIC TEST ONLY - NOT AN ACTUAL ASSIGNMENT
 END:VEVENT
 BEGIN:VEVENT
 UID:SSC2027-QA-009@officialsync-test.invalid
 DTSTAMP:20261115T120000Z
 DTSTART:20270204T230000Z
-DTEND:20270205T020000Z
-SUMMARY:Saint Leo vs Southern Wesleyan
+DURATION:PT3H
+SUMMARY:Game for Florida Collegiate Umpires - Sunshine State Conference
+DESCRIPTION:Southern Wesleyan at Saint Leo (6:00PM EST)
 LOCATION:Pete Biscardi Field at Thomas B. Southard Stadium\, Saint Leo\, FL
-DESCRIPTION:SYNTHETIC UMPIRE ASSIGNMENT - NOT AN ACTUAL ASSIGNMENT. Published school matchup and start time\; three-hour end time and $185 fee are QA assumptions. Test group: Sunshine State Conference QA.
 STATUS:CONFIRMED
 SEQUENCE:0
+X-OFFICIALSYNC-QA:TRUE
+X-OFFICIALSYNC-QA-NOTE:SYNTHETIC TEST ONLY - NOT AN ACTUAL ASSIGNMENT
 END:VEVENT
 BEGIN:VEVENT
 UID:SSC2027-QA-010@officialsync-test.invalid
 DTSTAMP:20261115T120000Z
 DTSTART:20270205T223000Z
-DTEND:20270206T013000Z
-SUMMARY:Florida Southern vs Northwest Nazarene
+DURATION:PT3H
+SUMMARY:Game for Florida Collegiate Umpires - Sunshine State Conference
+DESCRIPTION:Northwest Nazarene at Florida Southern (5:30PM EST)
 LOCATION:Henley Field\, Lakeland\, FL
-DESCRIPTION:SYNTHETIC UMPIRE ASSIGNMENT - NOT AN ACTUAL ASSIGNMENT. Published school matchup and start time\; three-hour end time and $175 fee are QA assumptions. Test group: Sunshine State Conference QA.
 STATUS:CONFIRMED
 SEQUENCE:0
+X-OFFICIALSYNC-QA:TRUE
+X-OFFICIALSYNC-QA-NOTE:SYNTHETIC TEST ONLY - NOT AN ACTUAL ASSIGNMENT
 END:VEVENT
 BEGIN:VEVENT
 UID:SSC2027-QA-011@officialsync-test.invalid
 DTSTAMP:20261115T120000Z
 DTSTART:20270205T230000Z
-DTEND:20270206T020000Z
-SUMMARY:Saint Leo vs Southern Wesleyan
+DURATION:PT3H
+SUMMARY:Game for Florida Collegiate Umpires - Sunshine State Conference
+DESCRIPTION:Southern Wesleyan at Saint Leo (6:00PM EST)
 LOCATION:Pete Biscardi Field at Thomas B. Southard Stadium\, Saint Leo\, FL
-DESCRIPTION:SYNTHETIC UMPIRE ASSIGNMENT - NOT AN ACTUAL ASSIGNMENT. Published school matchup and start time\; three-hour end time and $185 fee are QA assumptions. Test group: Sunshine State Conference QA.
 STATUS:CONFIRMED
 SEQUENCE:0
+X-OFFICIALSYNC-QA:TRUE
+X-OFFICIALSYNC-QA-NOTE:SYNTHETIC TEST ONLY - NOT AN ACTUAL ASSIGNMENT
 END:VEVENT
 BEGIN:VEVENT
 UID:SSC2027-QA-012@officialsync-test.invalid
 DTSTAMP:20261115T120000Z
 DTSTART:20270206T180000Z
-DTEND:20270206T210000Z
-SUMMARY:Florida Southern vs Erskine
+DURATION:PT3H
+SUMMARY:Game for Florida Collegiate Umpires - Sunshine State Conference
+DESCRIPTION:Erskine at Florida Southern (1:00PM EST)
 LOCATION:Henley Field\, Lakeland\, FL
-DESCRIPTION:SYNTHETIC UMPIRE ASSIGNMENT - NOT AN ACTUAL ASSIGNMENT. Published school matchup and start time\; three-hour end time and $175 fee are QA assumptions. Test group: Sunshine State Conference QA.
 STATUS:CONFIRMED
 SEQUENCE:0
+X-OFFICIALSYNC-QA:TRUE
+X-OFFICIALSYNC-QA-NOTE:SYNTHETIC TEST ONLY - NOT AN ACTUAL ASSIGNMENT
 END:VEVENT
 BEGIN:VEVENT
 UID:SSC2027-QA-013@officialsync-test.invalid
 DTSTAMP:20261115T120000Z
 DTSTART:20270206T180000Z
-DTEND:20270206T210000Z
-SUMMARY:Saint Leo vs Southern Wesleyan
+DURATION:PT3H
+SUMMARY:Game for Florida Collegiate Umpires - Sunshine State Conference
+DESCRIPTION:Southern Wesleyan at Saint Leo (1:00PM EST)
 LOCATION:Pete Biscardi Field at Thomas B. Southard Stadium\, Saint Leo\, FL
-DESCRIPTION:SYNTHETIC UMPIRE ASSIGNMENT - NOT AN ACTUAL ASSIGNMENT. Published school matchup and start time\; three-hour end time and $185 fee are QA assumptions. Test group: Sunshine State Conference QA.
 STATUS:CONFIRMED
 SEQUENCE:0
+X-OFFICIALSYNC-QA:TRUE
+X-OFFICIALSYNC-QA-NOTE:SYNTHETIC TEST ONLY - NOT AN ACTUAL ASSIGNMENT
 END:VEVENT
 BEGIN:VEVENT
 UID:SSC2027-QA-014@officialsync-test.invalid
 DTSTAMP:20261115T120000Z
 DTSTART:20270206T223000Z
-DTEND:20270207T013000Z
-SUMMARY:Florida Southern vs Northwest Nazarene
+DURATION:PT3H
+SUMMARY:Game for Florida Collegiate Umpires - Sunshine State Conference
+DESCRIPTION:Northwest Nazarene at Florida Southern (5:30PM EST)
 LOCATION:Henley Field\, Lakeland\, FL
-DESCRIPTION:SYNTHETIC UMPIRE ASSIGNMENT - NOT AN ACTUAL ASSIGNMENT. Published school matchup and start time\; three-hour end time and $175 fee are QA assumptions. Test group: Sunshine State Conference QA.
 STATUS:CONFIRMED
 SEQUENCE:0
+X-OFFICIALSYNC-QA:TRUE
+X-OFFICIALSYNC-QA-NOTE:SYNTHETIC TEST ONLY - NOT AN ACTUAL ASSIGNMENT
 END:VEVENT
 BEGIN:VEVENT
 UID:SSC2027-QA-015@officialsync-test.invalid
 DTSTAMP:20261115T120000Z
 DTSTART:20270209T230000Z
-DTEND:20270210T020000Z
-SUMMARY:Saint Leo vs Northwest Nazarene
+DURATION:PT3H
+SUMMARY:Game for Florida Collegiate Umpires - Sunshine State Conference
+DESCRIPTION:Northwest Nazarene at Saint Leo (6:00PM EST)
 LOCATION:Pete Biscardi Field at Thomas B. Southard Stadium\, Saint Leo\, FL
-DESCRIPTION:SYNTHETIC UMPIRE ASSIGNMENT - NOT AN ACTUAL ASSIGNMENT. Published school matchup and start time\; three-hour end time and $185 fee are QA assumptions. Test group: Sunshine State Conference QA.
 STATUS:CONFIRMED
 SEQUENCE:0
+X-OFFICIALSYNC-QA:TRUE
+X-OFFICIALSYNC-QA-NOTE:SYNTHETIC TEST ONLY - NOT AN ACTUAL ASSIGNMENT
 END:VEVENT
 BEGIN:VEVENT
 UID:SSC2027-QA-016@officialsync-test.invalid
 DTSTAMP:20261115T120000Z
 DTSTART:20270212T230000Z
-DTEND:20270213T020000Z
-SUMMARY:Florida Southern vs USC Beaufort
+DURATION:PT3H
+SUMMARY:Game for Florida Collegiate Umpires - Sunshine State Conference
+DESCRIPTION:USC Beaufort at Florida Southern (6:00PM EST)
 LOCATION:Henley Field\, Lakeland\, FL
-DESCRIPTION:SYNTHETIC UMPIRE ASSIGNMENT - NOT AN ACTUAL ASSIGNMENT. Published school matchup and start time\; three-hour end time and $175 fee are QA assumptions. Test group: Sunshine State Conference QA.
 STATUS:CONFIRMED
 SEQUENCE:0
+X-OFFICIALSYNC-QA:TRUE
+X-OFFICIALSYNC-QA-NOTE:SYNTHETIC TEST ONLY - NOT AN ACTUAL ASSIGNMENT
 END:VEVENT
 BEGIN:VEVENT
 UID:SSC2027-QA-017@officialsync-test.invalid
 DTSTAMP:20261115T120000Z
 DTSTART:20270212T190000Z
-DTEND:20270212T220000Z
-SUMMARY:Mississippi Christian vs Saint Leo
+DURATION:PT3H
+SUMMARY:Game for Florida Collegiate Umpires - Sunshine State Conference
+DESCRIPTION:Saint Leo at Mississippi Christian (2:00PM EST)
 LOCATION:Frierson Field\, Clinton\, MS
-DESCRIPTION:SYNTHETIC UMPIRE ASSIGNMENT - NOT AN ACTUAL ASSIGNMENT. Published school matchup and start time\; three-hour end time and $185 fee are QA assumptions. Test group: Sunshine State Conference QA.
 STATUS:CONFIRMED
 SEQUENCE:0
+X-OFFICIALSYNC-QA:TRUE
+X-OFFICIALSYNC-QA-NOTE:SYNTHETIC TEST ONLY - NOT AN ACTUAL ASSIGNMENT
 END:VEVENT
 BEGIN:VEVENT
 UID:SSC2027-QA-018@officialsync-test.invalid
 DTSTAMP:20261115T120000Z
 DTSTART:20270213T180000Z
-DTEND:20270213T210000Z
-SUMMARY:Florida Southern vs USC Beaufort
+DURATION:PT3H
+SUMMARY:Game for Florida Collegiate Umpires - Sunshine State Conference
+DESCRIPTION:USC Beaufort at Florida Southern (1:00PM EST)
 LOCATION:Henley Field\, Lakeland\, FL
-DESCRIPTION:SYNTHETIC UMPIRE ASSIGNMENT - NOT AN ACTUAL ASSIGNMENT. Published school matchup and start time\; three-hour end time and $175 fee are QA assumptions. Test group: Sunshine State Conference QA.
 STATUS:CONFIRMED
 SEQUENCE:0
+X-OFFICIALSYNC-QA:TRUE
+X-OFFICIALSYNC-QA-NOTE:SYNTHETIC TEST ONLY - NOT AN ACTUAL ASSIGNMENT
 END:VEVENT
 BEGIN:VEVENT
 UID:SSC2027-QA-019@officialsync-test.invalid
 DTSTAMP:20261115T120000Z
 DTSTART:20270213T170000Z
-DTEND:20270213T200000Z
-SUMMARY:Mississippi Christian vs Saint Leo - Game 1
+DURATION:PT3H
+SUMMARY:Game for Florida Collegiate Umpires - Sunshine State Conference
+DESCRIPTION:Saint Leo - Game 1 at Mississippi Christian (12:00PM EST)
 LOCATION:Frierson Field\, Clinton\, MS
-DESCRIPTION:SYNTHETIC UMPIRE ASSIGNMENT - NOT AN ACTUAL ASSIGNMENT. Published school matchup and start time\; three-hour end time and $185 fee are QA assumptions. Test group: Sunshine State Conference QA.
 STATUS:CONFIRMED
 SEQUENCE:0
+X-OFFICIALSYNC-QA:TRUE
+X-OFFICIALSYNC-QA-NOTE:SYNTHETIC TEST ONLY - NOT AN ACTUAL ASSIGNMENT
 END:VEVENT
 BEGIN:VEVENT
 UID:SSC2027-QA-020@officialsync-test.invalid
 DTSTAMP:20261115T120000Z
 DTSTART:20270213T200000Z
-DTEND:20270213T230000Z
-SUMMARY:Mississippi Christian vs Saint Leo - Game 2
+DURATION:PT3H
+SUMMARY:Game for Florida Collegiate Umpires - Sunshine State Conference
+DESCRIPTION:Saint Leo - Game 2 at Mississippi Christian (3:00PM EST)
 LOCATION:Frierson Field\, Clinton\, MS
-DESCRIPTION:SYNTHETIC UMPIRE ASSIGNMENT - NOT AN ACTUAL ASSIGNMENT. Published school matchup and start time\; three-hour end time and $185 fee are QA assumptions. Test group: Sunshine State Conference QA.
 STATUS:CONFIRMED
 SEQUENCE:0
+X-OFFICIALSYNC-QA:TRUE
+X-OFFICIALSYNC-QA-NOTE:SYNTHETIC TEST ONLY - NOT AN ACTUAL ASSIGNMENT
 END:VEVENT
 END:VCALENDAR
