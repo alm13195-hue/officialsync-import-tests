@@ -1,0 +1,317 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OfficialSync//2027 Published Baseball Schedule QA//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:OfficialSync QA - SSC - Published 2027 Games
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:officialsync-qa2027-ssc-20270226T1800-00@example.invalid
+DTSTAMP:20261115T000000Z
+DTSTART:20270226T230000Z
+DTEND:20270227T020000Z
+SUMMARY:Saint Leo @ Eckerd
+LOCATION:Turley Athletic Complex\, St. Petersburg\, FL
+DESCRIPTION:QA FIXTURE - NOT AN UMPIRE ASSIGNMENT. Published school ma
+ tchup/date/start time\; end time is a 3-hour testing assumption. Sour
+ ce: https://saintleolions.com/sports/baseball/schedule/2027?grid=true. 
+STATUS:CONFIRMED
+X-OFFICIALSYNC-QA:TRUE
+X-OFFICIALSYNC-SOURCE:https://saintleolions.com/sports/baseball/schedu
+ le/2027?grid=true
+END:VEVENT
+BEGIN:VEVENT
+UID:officialsync-qa2027-ssc-20270227T1300-01@example.invalid
+DTSTAMP:20261115T000000Z
+DTSTART:20270227T180000Z
+DTEND:20270227T210000Z
+SUMMARY:Saint Leo @ Eckerd
+LOCATION:Turley Athletic Complex\, St. Petersburg\, FL
+DESCRIPTION:QA FIXTURE - NOT AN UMPIRE ASSIGNMENT. Published school ma
+ tchup/date/start time\; end time is a 3-hour testing assumption. Sour
+ ce: https://saintleolions.com/sports/baseball/schedule/2027?grid=true. 
+STATUS:CONFIRMED
+X-OFFICIALSYNC-QA:TRUE
+X-OFFICIALSYNC-SOURCE:https://saintleolions.com/sports/baseball/schedu
+ le/2027?grid=true
+END:VEVENT
+BEGIN:VEVENT
+UID:officialsync-qa2027-ssc-20270227T1600-02@example.invalid
+DTSTAMP:20261115T000000Z
+DTSTART:20270227T210000Z
+DTEND:20270228T000000Z
+SUMMARY:Saint Leo @ Eckerd
+LOCATION:Turley Athletic Complex\, St. Petersburg\, FL
+DESCRIPTION:QA FIXTURE - NOT AN UMPIRE ASSIGNMENT. Published school ma
+ tchup/date/start time\; end time is a 3-hour testing assumption. Sour
+ ce: https://saintleolions.com/sports/baseball/schedule/2027?grid=true. 
+STATUS:CONFIRMED
+X-OFFICIALSYNC-QA:TRUE
+X-OFFICIALSYNC-SOURCE:https://saintleolions.com/sports/baseball/schedu
+ le/2027?grid=true
+END:VEVENT
+BEGIN:VEVENT
+UID:officialsync-qa2027-ssc-20270305T1800-03@example.invalid
+DTSTAMP:20261115T000000Z
+DTSTART:20270305T230000Z
+DTEND:20270306T020000Z
+SUMMARY:Tampa @ Saint Leo
+LOCATION:Pete Biscardi Field at Thomas B. Southard Stadium\, Saint Leo
+ \, FL
+DESCRIPTION:QA FIXTURE - NOT AN UMPIRE ASSIGNMENT. Published school ma
+ tchup/date/start time\; end time is a 3-hour testing assumption. Sour
+ ce: https://saintleolions.com/sports/baseball/schedule/2027?grid=true. 
+STATUS:CONFIRMED
+X-OFFICIALSYNC-QA:TRUE
+X-OFFICIALSYNC-SOURCE:https://saintleolions.com/sports/baseball/schedu
+ le/2027?grid=true
+END:VEVENT
+BEGIN:VEVENT
+UID:officialsync-qa2027-ssc-20270306T1300-04@example.invalid
+DTSTAMP:20261115T000000Z
+DTSTART:20270306T180000Z
+DTEND:20270306T210000Z
+SUMMARY:Tampa @ Saint Leo
+LOCATION:Pete Biscardi Field at Thomas B. Southard Stadium\, Saint Leo
+ \, FL
+DESCRIPTION:QA FIXTURE - NOT AN UMPIRE ASSIGNMENT. Published school ma
+ tchup/date/start time\; end time is a 3-hour testing assumption. Sour
+ ce: https://saintleolions.com/sports/baseball/schedule/2027?grid=true. 
+STATUS:CONFIRMED
+X-OFFICIALSYNC-QA:TRUE
+X-OFFICIALSYNC-SOURCE:https://saintleolions.com/sports/baseball/schedu
+ le/2027?grid=true
+END:VEVENT
+BEGIN:VEVENT
+UID:officialsync-qa2027-ssc-20270306T1600-05@example.invalid
+DTSTAMP:20261115T000000Z
+DTSTART:20270306T210000Z
+DTEND:20270307T000000Z
+SUMMARY:Tampa @ Saint Leo
+LOCATION:Pete Biscardi Field at Thomas B. Southard Stadium\, Saint Leo
+ \, FL
+DESCRIPTION:QA FIXTURE - NOT AN UMPIRE ASSIGNMENT. Published school ma
+ tchup/date/start time\; end time is a 3-hour testing assumption. Sour
+ ce: https://saintleolions.com/sports/baseball/schedule/2027?grid=true. 
+STATUS:CONFIRMED
+X-OFFICIALSYNC-QA:TRUE
+X-OFFICIALSYNC-SOURCE:https://saintleolions.com/sports/baseball/schedu
+ le/2027?grid=true
+END:VEVENT
+BEGIN:VEVENT
+UID:officialsync-qa2027-ssc-20270319T1500-06@example.invalid
+DTSTAMP:20261115T000000Z
+DTSTART:20270319T190000Z
+DTEND:20270319T220000Z
+SUMMARY:Saint Leo @ Rollins
+LOCATION:Alfond Stadium at Harper-Shepherd Field\, Winter Park\, FL
+DESCRIPTION:QA FIXTURE - NOT AN UMPIRE ASSIGNMENT. Published school ma
+ tchup/date/start time\; end time is a 3-hour testing assumption. Sour
+ ce: https://saintleolions.com/sports/baseball/schedule/2027?grid=true. 
+STATUS:CONFIRMED
+X-OFFICIALSYNC-QA:TRUE
+X-OFFICIALSYNC-SOURCE:https://saintleolions.com/sports/baseball/schedu
+ le/2027?grid=true
+END:VEVENT
+BEGIN:VEVENT
+UID:officialsync-qa2027-ssc-20270320T1500-07@example.invalid
+DTSTAMP:20261115T000000Z
+DTSTART:20270320T190000Z
+DTEND:20270320T220000Z
+SUMMARY:Saint Leo @ Rollins
+LOCATION:Alfond Stadium at Harper-Shepherd Field\, Winter Park\, FL
+DESCRIPTION:QA FIXTURE - NOT AN UMPIRE ASSIGNMENT. Published school ma
+ tchup/date/start time\; end time is a 3-hour testing assumption. Sour
+ ce: https://saintleolions.com/sports/baseball/schedule/2027?grid=true. 
+STATUS:CONFIRMED
+X-OFFICIALSYNC-QA:TRUE
+X-OFFICIALSYNC-SOURCE:https://saintleolions.com/sports/baseball/schedu
+ le/2027?grid=true
+END:VEVENT
+BEGIN:VEVENT
+UID:officialsync-qa2027-ssc-20270321T1300-08@example.invalid
+DTSTAMP:20261115T000000Z
+DTSTART:20270321T170000Z
+DTEND:20270321T200000Z
+SUMMARY:Saint Leo @ Rollins
+LOCATION:Alfond Stadium at Harper-Shepherd Field\, Winter Park\, FL
+DESCRIPTION:QA FIXTURE - NOT AN UMPIRE ASSIGNMENT. Published school ma
+ tchup/date/start time\; end time is a 3-hour testing assumption. Sour
+ ce: https://saintleolions.com/sports/baseball/schedule/2027?grid=true. 
+STATUS:CONFIRMED
+X-OFFICIALSYNC-QA:TRUE
+X-OFFICIALSYNC-SOURCE:https://saintleolions.com/sports/baseball/schedu
+ le/2027?grid=true
+END:VEVENT
+BEGIN:VEVENT
+UID:officialsync-qa2027-ssc-20270325T1800-09@example.invalid
+DTSTAMP:20261115T000000Z
+DTSTART:20270325T220000Z
+DTEND:20270326T010000Z
+SUMMARY:Saint Leo @ Palm Beach Atlantic
+LOCATION:J.M. Jake Rubin Park\, West Palm Beach\, FL
+DESCRIPTION:QA FIXTURE - NOT AN UMPIRE ASSIGNMENT. Published school ma
+ tchup/date/start time\; end time is a 3-hour testing assumption. Sour
+ ce: https://saintleolions.com/sports/baseball/schedule/2027?grid=true. 
+STATUS:CONFIRMED
+X-OFFICIALSYNC-QA:TRUE
+X-OFFICIALSYNC-SOURCE:https://saintleolions.com/sports/baseball/schedu
+ le/2027?grid=true
+END:VEVENT
+BEGIN:VEVENT
+UID:officialsync-qa2027-ssc-20270326T1300-10@example.invalid
+DTSTAMP:20261115T000000Z
+DTSTART:20270326T170000Z
+DTEND:20270326T200000Z
+SUMMARY:Saint Leo @ Palm Beach Atlantic
+LOCATION:J.M. Jake Rubin Park\, West Palm Beach\, FL
+DESCRIPTION:QA FIXTURE - NOT AN UMPIRE ASSIGNMENT. Published school ma
+ tchup/date/start time\; end time is a 3-hour testing assumption. Sour
+ ce: https://saintleolions.com/sports/baseball/schedule/2027?grid=true. 
+STATUS:CONFIRMED
+X-OFFICIALSYNC-QA:TRUE
+X-OFFICIALSYNC-SOURCE:https://saintleolions.com/sports/baseball/schedu
+ le/2027?grid=true
+END:VEVENT
+BEGIN:VEVENT
+UID:officialsync-qa2027-ssc-20270326T1600-11@example.invalid
+DTSTAMP:20261115T000000Z
+DTSTART:20270326T200000Z
+DTEND:20270326T230000Z
+SUMMARY:Saint Leo @ Palm Beach Atlantic
+LOCATION:J.M. Jake Rubin Park\, West Palm Beach\, FL
+DESCRIPTION:QA FIXTURE - NOT AN UMPIRE ASSIGNMENT. Published school ma
+ tchup/date/start time\; end time is a 3-hour testing assumption. Sour
+ ce: https://saintleolions.com/sports/baseball/schedule/2027?grid=true. 
+STATUS:CONFIRMED
+X-OFFICIALSYNC-QA:TRUE
+X-OFFICIALSYNC-SOURCE:https://saintleolions.com/sports/baseball/schedu
+ le/2027?grid=true
+END:VEVENT
+BEGIN:VEVENT
+UID:officialsync-qa2027-ssc-20270409T1800-12@example.invalid
+DTSTAMP:20261115T000000Z
+DTSTART:20270409T220000Z
+DTEND:20270410T010000Z
+SUMMARY:Florida Tech @ Saint Leo
+LOCATION:Pete Biscardi Field at Thomas B. Southard Stadium\, Saint Leo
+ \, FL
+DESCRIPTION:QA FIXTURE - NOT AN UMPIRE ASSIGNMENT. Published school ma
+ tchup/date/start time\; end time is a 3-hour testing assumption. Sour
+ ce: https://saintleolions.com/sports/baseball/schedule/2027?grid=true. 
+STATUS:CONFIRMED
+X-OFFICIALSYNC-QA:TRUE
+X-OFFICIALSYNC-SOURCE:https://saintleolions.com/sports/baseball/schedu
+ le/2027?grid=true
+END:VEVENT
+BEGIN:VEVENT
+UID:officialsync-qa2027-ssc-20270410T1300-13@example.invalid
+DTSTAMP:20261115T000000Z
+DTSTART:20270410T170000Z
+DTEND:20270410T200000Z
+SUMMARY:Florida Tech @ Saint Leo
+LOCATION:Pete Biscardi Field at Thomas B. Southard Stadium\, Saint Leo
+ \, FL
+DESCRIPTION:QA FIXTURE - NOT AN UMPIRE ASSIGNMENT. Published school ma
+ tchup/date/start time\; end time is a 3-hour testing assumption. Sour
+ ce: https://saintleolions.com/sports/baseball/schedule/2027?grid=true. 
+STATUS:CONFIRMED
+X-OFFICIALSYNC-QA:TRUE
+X-OFFICIALSYNC-SOURCE:https://saintleolions.com/sports/baseball/schedu
+ le/2027?grid=true
+END:VEVENT
+BEGIN:VEVENT
+UID:officialsync-qa2027-ssc-20270410T1600-14@example.invalid
+DTSTAMP:20261115T000000Z
+DTSTART:20270410T200000Z
+DTEND:20270410T230000Z
+SUMMARY:Florida Tech @ Saint Leo
+LOCATION:Pete Biscardi Field at Thomas B. Southard Stadium\, Saint Leo
+ \, FL
+DESCRIPTION:QA FIXTURE - NOT AN UMPIRE ASSIGNMENT. Published school ma
+ tchup/date/start time\; end time is a 3-hour testing assumption. Sour
+ ce: https://saintleolions.com/sports/baseball/schedule/2027?grid=true. 
+STATUS:CONFIRMED
+X-OFFICIALSYNC-QA:TRUE
+X-OFFICIALSYNC-SOURCE:https://saintleolions.com/sports/baseball/schedu
+ le/2027?grid=true
+END:VEVENT
+BEGIN:VEVENT
+UID:officialsync-qa2027-ssc-20270423T1800-15@example.invalid
+DTSTAMP:20261115T000000Z
+DTSTART:20270423T220000Z
+DTEND:20270424T010000Z
+SUMMARY:Florida Southern @ Saint Leo
+LOCATION:Pete Biscardi Field at Thomas B. Southard Stadium\, Saint Leo
+ \, FL
+DESCRIPTION:QA FIXTURE - NOT AN UMPIRE ASSIGNMENT. Published school ma
+ tchup/date/start time\; end time is a 3-hour testing assumption. Sour
+ ce: https://saintleolions.com/sports/baseball/schedule/2027?grid=true. 
+STATUS:CONFIRMED
+X-OFFICIALSYNC-QA:TRUE
+X-OFFICIALSYNC-SOURCE:https://saintleolions.com/sports/baseball/schedu
+ le/2027?grid=true
+END:VEVENT
+BEGIN:VEVENT
+UID:officialsync-qa2027-ssc-20270424T1300-16@example.invalid
+DTSTAMP:20261115T000000Z
+DTSTART:20270424T170000Z
+DTEND:20270424T200000Z
+SUMMARY:Florida Southern @ Saint Leo
+LOCATION:Pete Biscardi Field at Thomas B. Southard Stadium\, Saint Leo
+ \, FL
+DESCRIPTION:QA FIXTURE - NOT AN UMPIRE ASSIGNMENT. Published school ma
+ tchup/date/start time\; end time is a 3-hour testing assumption. Sour
+ ce: https://saintleolions.com/sports/baseball/schedule/2027?grid=true. 
+STATUS:CONFIRMED
+X-OFFICIALSYNC-QA:TRUE
+X-OFFICIALSYNC-SOURCE:https://saintleolions.com/sports/baseball/schedu
+ le/2027?grid=true
+END:VEVENT
+BEGIN:VEVENT
+UID:officialsync-qa2027-ssc-20270424T1600-17@example.invalid
+DTSTAMP:20261115T000000Z
+DTSTART:20270424T200000Z
+DTEND:20270424T230000Z
+SUMMARY:Florida Southern @ Saint Leo
+LOCATION:Pete Biscardi Field at Thomas B. Southard Stadium\, Saint Leo
+ \, FL
+DESCRIPTION:QA FIXTURE - NOT AN UMPIRE ASSIGNMENT. Published school ma
+ tchup/date/start time\; end time is a 3-hour testing assumption. Sour
+ ce: https://saintleolions.com/sports/baseball/schedule/2027?grid=true. 
+STATUS:CONFIRMED
+X-OFFICIALSYNC-QA:TRUE
+X-OFFICIALSYNC-SOURCE:https://saintleolions.com/sports/baseball/schedu
+ le/2027?grid=true
+END:VEVENT
+BEGIN:VEVENT
+UID:officialsync-qa2027-ssc-20270430T1800-18@example.invalid
+DTSTAMP:20261115T000000Z
+DTSTART:20270430T220000Z
+DTEND:20270501T010000Z
+SUMMARY:Saint Leo @ Nova Southeastern
+LOCATION:NSU Baseball Complex\, Fort Lauderdale\, FL
+DESCRIPTION:QA FIXTURE - NOT AN UMPIRE ASSIGNMENT. Published school ma
+ tchup/date/start time\; end time is a 3-hour testing assumption. Sour
+ ce: https://saintleolions.com/sports/baseball/schedule/2027?grid=true. 
+STATUS:CONFIRMED
+X-OFFICIALSYNC-QA:TRUE
+X-OFFICIALSYNC-SOURCE:https://saintleolions.com/sports/baseball/schedu
+ le/2027?grid=true
+END:VEVENT
+BEGIN:VEVENT
+UID:officialsync-qa2027-ssc-20270501T1300-19@example.invalid
+DTSTAMP:20261115T000000Z
+DTSTART:20270501T170000Z
+DTEND:20270501T200000Z
+SUMMARY:Saint Leo @ Nova Southeastern
+LOCATION:NSU Baseball Complex\, Fort Lauderdale\, FL
+DESCRIPTION:QA FIXTURE - NOT AN UMPIRE ASSIGNMENT. Published school ma
+ tchup/date/start time\; end time is a 3-hour testing assumption. Sour
+ ce: https://saintleolions.com/sports/baseball/schedule/2027?grid=true. 
+STATUS:CONFIRMED
+X-OFFICIALSYNC-QA:TRUE
+X-OFFICIALSYNC-SOURCE:https://saintleolions.com/sports/baseball/schedu
+ le/2027?grid=true
+END:VEVENT
+END:VCALENDAR
